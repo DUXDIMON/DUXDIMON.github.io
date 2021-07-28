@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2100px" height="1704px" viewBox="0 0 2100 1704" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>New_glowing-effect-central (for the screen without browser image)</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="47.8990883%" fx="50%" fy="47.8990883%" r="34.9496519%" gradientTransform="translate(0.500000,0.478991),scale(0.999005,1.000000),rotate(90.000000),translate(-0.500000,-0.478991)" id="radialGradient-1">
+            <stop stop-color="#3700ED" offset="0%"></stop>
+            <stop stop-color="#03060D" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="47.8990883%" fx="50%" fy="47.8990883%" r="34.9496519%" gradientTransform="translate(0.500000,0.478991),scale(0.999333,1.000000),rotate(90.000000),translate(-0.500000,-0.478991)" id="radialGradient-2">
+            <stop stop-color="#03060D" offset="0%"></stop>
+            <stop stop-color="#03060D" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="47.8990883%" fx="50%" fy="47.8990883%" r="34.9496519%" gradientTransform="translate(0.500000,0.478991),scale(0.999333,1.000000),rotate(90.000000),translate(-0.500000,-0.478991)" id="radialGradient-3">
+            <stop stop-color="#FA1E4E" offset="0%"></stop>
+            <stop stop-color="#E3282F" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#03060D" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#03060D" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="45.4989347%" fx="50%" fy="45.4989347%" r="49.9151064%" gradientTransform="translate(0.500000,0.454989),scale(0.998445,1.000000),rotate(44.485961),translate(-0.500000,-0.454989)" id="radialGradient-5">
+            <stop stop-color="#3700ED" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="45.4989347%" fx="50%" fy="45.4989347%" r="49.9314336%" gradientTransform="translate(0.500000,0.454989),scale(0.997804,1.000000),rotate(44.467562),translate(-0.500000,-0.454989)" id="radialGradient-6">
+            <stop stop-color="#3700ED" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="52.3470088%" cy="47.8077941%" fx="52.3470088%" fy="47.8077941%" r="46.6067171%" gradientTransform="translate(0.523470,0.478078),scale(0.999012,1.000000),rotate(44.502235),translate(-0.523470,-0.478078)" id="radialGradient-7">
+            <stop stop-color="#E3282F" offset="0%"></stop>
+            <stop stop-color="#E3282F" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="New_glowing-effect-central-(for-the-screen-without-browser-image)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="New_glowing-effect-ovals-2">
+            <g id="glowing-effect-ovals" opacity="0.659412202" fill-rule="nonzero">
+                <ellipse id="blue2" fill="url(#radialGradient-1)" opacity="0.2" cx="1467.13636" cy="732.469027" rx="632.863636" ry="632.233733"></ellipse>
+                <ellipse id="blue1" fill="url(#radialGradient-1)" opacity="0.2" cx="632.863636" cy="732.469027" rx="632.863636" ry="632.233733"></ellipse>
+                <ellipse id="black-left" fill="url(#radialGradient-2)" cx="768.885501" cy="750.361869" rx="676.294591" ry="675.843173"></ellipse>
+                <ellipse id="black-right" fill="url(#radialGradient-2)" cx="1325.38723" cy="750.361869" rx="676.294591" ry="675.843173"></ellipse>
+                <ellipse id="red1" fill="url(#radialGradient-3)" opacity="0.35" cx="769.575949" cy="645.483704" rx="614.844649" ry="614.434248"></ellipse>
+                <ellipse id="red2" fill="url(#radialGradient-3)" opacity="0.35" cx="1329.52992" cy="645.483704" rx="614.844649" ry="614.434248"></ellipse>
+                <ellipse id="red-central" fill="url(#radialGradient-3)" opacity="0.25" cx="1053.3504" cy="614.434248" rx="614.844649" ry="614.434248"></ellipse>
+                <ellipse id="black-right" fill="url(#radialGradient-2)" cx="1047.61277" cy="1028.09864" rx="676.294591" ry="675.843173"></ellipse>
+            </g>
+            <rect id="black-bg" fill="url(#linearGradient-4)" x="0" y="715" width="2100" height="989"></rect>
+        </g>
+        <g id="double-glowing-effect-1" opacity="0.4" transform="translate(882.335875, 402.613916) rotate(-270.000000) translate(-882.335875, -402.613916) translate(557.335875, 107.113916)" fill-rule="nonzero">
+            <ellipse id="Oval-3-Copy-11" fill="url(#radialGradient-5)" opacity="0.637718564" transform="translate(277.622310, 313.588475) rotate(-510.000000) translate(-277.622310, -313.588475) " cx="277.62231" cy="313.588475" rx="203.248966" ry="202.9329"></ellipse>
+            <ellipse id="Oval-3-Copy-13" fill="url(#radialGradient-6)" opacity="0.637718564" transform="translate(362.160288, 226.918681) rotate(-510.000000) translate(-362.160288, -226.918681) " cx="362.160288" cy="226.918681" rx="166.133775" ry="165.768908"></ellipse>
+            <ellipse id="Oval-3-Copy-12" fill="url(#radialGradient-7)" opacity="0.5" transform="translate(372.702613, 297.264929) rotate(-480.000000) translate(-372.702613, -297.264929) " cx="372.702613" cy="297.264929" rx="203.047257" ry="202.846721"></ellipse>
+        </g>
+        <g id="double-glowing-effect-2" opacity="0.4" transform="translate(1209.500000, 675.000000) scale(-1, 1) rotate(-270.000000) translate(-1209.500000, -675.000000) translate(884.500000, 379.500000)" fill-rule="nonzero">
+            <ellipse id="Oval-3-Copy-11" fill="url(#radialGradient-5)" opacity="0.637718564" transform="translate(277.622310, 313.588475) rotate(-510.000000) translate(-277.622310, -313.588475) " cx="277.62231" cy="313.588475" rx="203.248966" ry="202.9329"></ellipse>
+            <ellipse id="Oval-3-Copy-13" fill="url(#radialGradient-6)" opacity="0.637718564" transform="translate(362.160288, 226.918681) rotate(-510.000000) translate(-362.160288, -226.918681) " cx="362.160288" cy="226.918681" rx="166.133775" ry="165.768908"></ellipse>
+            <ellipse id="Oval-3-Copy-12" fill="url(#radialGradient-7)" opacity="0.5" transform="translate(372.702613, 297.264929) rotate(-480.000000) translate(-372.702613, -297.264929) " cx="372.702613" cy="297.264929" rx="203.047257" ry="202.846721"></ellipse>
+        </g>
+    </g>
+</svg>
